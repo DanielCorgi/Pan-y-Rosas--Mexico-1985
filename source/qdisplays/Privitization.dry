@@ -1,0 +1,12 @@
+::Privatization of the Economy
+
+{privatization_level}
+(..-6): **Extremely low** – The economy is almost entirely state-run. Large industries are nationalized, and foreign investment is tightly restricted.
+(-5..-4): **Very low** – Most major sectors remain under state control. Only a few small businesses are privately owned.
+(-3..-2): **Low** – The government still controls strategic sectors, but some privatization of services and minor industries is underway.
+(-1..-1): **Below baseline** – The economy is slightly more state-directed than in 1980. Some recent renationalizations.
+(0..0): **Moderate** – A classic Mexican mixed economy: both public and private sectors operate, as in the early 1980s.
+(1..1): **Above baseline** – Modest privatization: some SOEs sold, private sector growing.
+(2..3): **High** – Significant privatization: major companies, banks, or utilities are now private. Foreign investors welcomed.
+(4..5): **Very high** – Nearly all sectors privatized, including previously sacred cows like PEMEX or the railroads.
+(6..): **Extremely high** – Mexico is a textbook neoliberal state. Regulation is minimal, and foreign capital dominates key industries.
